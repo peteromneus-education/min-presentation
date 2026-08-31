@@ -1,0 +1,5 @@
+# A message to my future self
+
+## What I hope to have learned, six months from now (2026-08-31)
+
+- Git and GitHub workflows
